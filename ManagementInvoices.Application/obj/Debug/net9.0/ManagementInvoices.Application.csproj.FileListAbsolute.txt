@@ -1,0 +1,15 @@
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\bin\Debug\net9.0\ManagementInvoices.Application.deps.json
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\bin\Debug\net9.0\ManagementInvoices.Application.dll
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\bin\Debug\net9.0\ManagementInvoices.Application.pdb
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\bin\Debug\net9.0\ManagementInvoices.Domain.dll
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\bin\Debug\net9.0\ManagementInvoices.Domain.pdb
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.csproj.AssemblyReference.cache
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.AssemblyInfoInputs.cache
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.AssemblyInfo.cs
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.csproj.CoreCompileInputs.cache
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\Manageme.CC28F728.Up2Date
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.dll
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\refint\ManagementInvoices.Application.dll
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.pdb
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ref\ManagementInvoices.Application.dll

@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\ManagementInvoices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\managementinvoices.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\managementinvoices.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\features\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\commands\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\features\\products\\commands\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\commands\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\features\\products\\commands\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\commands\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\features\\products\\commands\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\commands\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\features\\products\\commands\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\features\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\features\\products\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\queries\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\features\\products\\queries\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\queries\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\features\\products\\queries\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA80781-C17A-4401-91A6-0D1663EC11D4}|ManagementInvoices.Infrastructure\\ManagementInvoices.Infrastructure.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.infrastructure\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA80781-C17A-4401-91A6-0D1663EC11D4}|ManagementInvoices.Infrastructure\\ManagementInvoices.Infrastructure.csproj|solutionrelative:managementinvoices.infrastructure\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA80781-C17A-4401-91A6-0D1663EC11D4}|ManagementInvoices.Infrastructure\\ManagementInvoices.Infrastructure.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA80781-C17A-4401-91A6-0D1663EC11D4}|ManagementInvoices.Infrastructure\\ManagementInvoices.Infrastructure.csproj|solutionrelative:managementinvoices.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\managementinvoices.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\managementinvoices.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\features\\products\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\queries\\getproductbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\features\\products\\queries\\getproductbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA80781-C17A-4401-91A6-0D1663EC11D4}|ManagementInvoices.Infrastructure\\ManagementInvoices.Infrastructure.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.infrastructure\\migrations\\20250802170741_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA80781-C17A-4401-91A6-0D1663EC11D4}|ManagementInvoices.Infrastructure\\ManagementInvoices.Infrastructure.csproj|solutionrelative:managementinvoices.infrastructure\\migrations\\20250802170741_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA80781-C17A-4401-91A6-0D1663EC11D4}|ManagementInvoices.Infrastructure\\ManagementInvoices.Infrastructure.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA80781-C17A-4401-91A6-0D1663EC11D4}|ManagementInvoices.Infrastructure\\ManagementInvoices.Infrastructure.csproj|solutionrelative:managementinvoices.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11577E7-A73D-4477-B738-4147F6F92845}|ManagementInvoices.Domain\\ManagementInvoices.Domain.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11577E7-A73D-4477-B738-4147F6F92845}|ManagementInvoices.Domain\\ManagementInvoices.Domain.csproj|solutionrelative:managementinvoices.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|solutionrelative:managementinvoices.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ManagementInvoices.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ManagementInvoices.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T13:47:19.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:48:15.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ManagementInvoices.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\appsettings.json",
+              "RelativeToolTip": "ManagementInvoices.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T17:47:38.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ManagementInvoices.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\appsettings.Development.json",
+              "RelativeToolTip": "ManagementInvoices.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T17:47:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Program.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.API\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Program.cs",
+              "RelativeToolTip": "ManagementInvoices.API\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:16:47.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ManagementInvoices.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:23:11.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:22:42.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagementInvoices.API",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\ManagementInvoices.API.csproj",
+              "RelativeDocumentMoniker": "ManagementInvoices.API\\ManagementInvoices.API.csproj",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\ManagementInvoices.API.csproj",
+              "RelativeToolTip": "ManagementInvoices.API\\ManagementInvoices.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T13:46:48.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:58:40.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:59:09.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:49:10.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:22:25.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQueryHandler.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:09:04.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:21:14.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ManagementInvoices.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:33:08.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:26:04.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Infrastructure\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "ManagementInvoices.Infrastructure\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:51:47.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManagementInvoices.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\ManagementInvoices.Application.csproj",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\ManagementInvoices.Application.csproj",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\ManagementInvoices.Application.csproj",
+              "RelativeToolTip": "ManagementInvoices.Application\\ManagementInvoices.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T16:17:15.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:08:39.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetProductById.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductById.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductById.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductById.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductById.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:25:24.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250802170741_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\Migrations\\20250802170741_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Infrastructure\\Migrations\\20250802170741_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\Migrations\\20250802170741_InitialCreate.cs",
+              "RelativeToolTip": "ManagementInvoices.Infrastructure\\Migrations\\20250802170741_InitialCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:08:50.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ManagementInvoices.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:08:49.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ManagementInvoices.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:17:40.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "ManagementInvoices.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:28:07.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

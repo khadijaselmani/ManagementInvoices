@@ -1,0 +1,17 @@
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\bin\Debug\net9.0\ManagementInvoices.Infrastructure.deps.json
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\bin\Debug\net9.0\ManagementInvoices.Infrastructure.dll
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\bin\Debug\net9.0\ManagementInvoices.Infrastructure.pdb
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\bin\Debug\net9.0\ManagementInvoices.Application.dll
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\bin\Debug\net9.0\ManagementInvoices.Domain.dll
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\bin\Debug\net9.0\ManagementInvoices.Application.pdb
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\bin\Debug\net9.0\ManagementInvoices.Domain.pdb
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.AssemblyInfo.cs
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\Manageme.4C42ADD2.Up2Date
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.dll
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\refint\ManagementInvoices.Infrastructure.dll
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.pdb
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ref\ManagementInvoices.Infrastructure.dll
