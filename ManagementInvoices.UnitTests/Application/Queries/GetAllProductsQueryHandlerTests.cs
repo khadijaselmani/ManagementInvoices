@@ -1,6 +1,7 @@
 using ManagementInvoices.Application.Features.Products.Queries;
 using ManagementInvoices.Application.Interfaces;
 using ManagementInvoices.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace ManagementInvoices.UnitTests.Application.Queries
 {

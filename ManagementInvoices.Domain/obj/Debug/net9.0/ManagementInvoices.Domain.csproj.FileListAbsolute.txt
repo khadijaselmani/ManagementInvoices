@@ -5,6 +5,7 @@ C:\Users\dell\ManagementInvoices\ManagementInvoices.Domain\obj\Debug\net9.0\Mana
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Domain\obj\Debug\net9.0\ManagementInvoices.Domain.AssemblyInfoInputs.cache
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Domain\obj\Debug\net9.0\ManagementInvoices.Domain.AssemblyInfo.cs
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Domain\obj\Debug\net9.0\ManagementInvoices.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Domain\obj\Debug\net9.0\ManagementInvoices.Domain.sourcelink.json
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Domain\obj\Debug\net9.0\ManagementInvoices.Domain.dll
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Domain\obj\Debug\net9.0\refint\ManagementInvoices.Domain.dll
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Domain\obj\Debug\net9.0\ManagementInvoices.Domain.pdb

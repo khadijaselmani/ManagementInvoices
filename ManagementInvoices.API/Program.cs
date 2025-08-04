@@ -43,10 +43,8 @@ var app = builder.Build();
 
 app.UseCors("AllowReactApp");
 
-// Configure middleware pipeline
-
-    app.UseSwagger();
-    app.UseSwaggerUI();
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
 

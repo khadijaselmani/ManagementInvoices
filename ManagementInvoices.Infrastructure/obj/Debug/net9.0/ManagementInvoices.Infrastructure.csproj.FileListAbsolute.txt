@@ -10,6 +10,7 @@ C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.AssemblyInfo.cs
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.sourcelink.json
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\Manageme.4C42ADD2.Up2Date
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\ManagementInvoices.Infrastructure.dll
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Infrastructure\obj\Debug\net9.0\refint\ManagementInvoices.Infrastructure.dll

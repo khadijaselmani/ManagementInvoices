@@ -23,7 +23,6 @@ namespace ManagementInvoices.Domain.Entities
         {
             Name = name;
             Price = price;
-            // Raise domain event here if needed
         }
     }
 }

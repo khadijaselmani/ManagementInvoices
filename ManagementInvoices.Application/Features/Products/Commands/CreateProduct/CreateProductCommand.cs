@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace ManagementInvoices.Application.Features.Products.Commands.CreateProduct
 {
-    // CreateProductCommand.cs
     public record CreateProductCommand(string Name, decimal Price) : IRequest<Guid>;
 
    

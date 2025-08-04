@@ -1,6 +1,9 @@
 using ManagementInvoices.Application.Features.Products.Commands.UpdateProduct;
 using ManagementInvoices.Application.Interfaces;
 using ManagementInvoices.Domain.Entities;
+using MediatR;
+using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace ManagementInvoices.UnitTests.Application.Commands
 {

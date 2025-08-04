@@ -8,6 +8,7 @@ C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.AssemblyInfoInputs.cache
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.AssemblyInfo.cs
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.csproj.CoreCompileInputs.cache
+C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.sourcelink.json
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\Manageme.CC28F728.Up2Date
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\ManagementInvoices.Application.dll
 C:\Users\dell\ManagementInvoices\ManagementInvoices.Application\obj\Debug\net9.0\refint\ManagementInvoices.Application.dll

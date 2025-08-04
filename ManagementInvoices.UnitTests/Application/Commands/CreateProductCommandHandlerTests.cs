@@ -1,6 +1,7 @@
 using ManagementInvoices.Application.Features.Products.Commands.CreateProduct;
 using ManagementInvoices.Application.Interfaces;
 using ManagementInvoices.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace ManagementInvoices.UnitTests.Application.Commands
 {
