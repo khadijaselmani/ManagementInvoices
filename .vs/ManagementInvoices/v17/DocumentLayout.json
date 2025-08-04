@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\ManagementInvoices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B0B50428-ABF5-4E94-A12C-E0355C3227B8}|ManagementInvoices.UnitTests\\ManagementInvoices.UnitTests.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B50428-ABF5-4E94-A12C-E0355C3227B8}|ManagementInvoices.UnitTests\\ManagementInvoices.UnitTests.csproj|solutionrelative:managementinvoices.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -106,11 +110,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ManagementInvoices.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "ManagementInvoices.UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:16:52.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\Properties\\launchSettings.json",
@@ -122,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UpdateProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
@@ -134,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\appsettings.json",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\appsettings.json",
@@ -147,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\appsettings.Development.json",
@@ -155,12 +172,11 @@
               "RelativeToolTip": "ManagementInvoices.API\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-02T17:47:07.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T17:47:07.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Program.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\Program.cs",
@@ -168,12 +184,11 @@
               "RelativeToolTip": "ManagementInvoices.API\\Program.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T17:16:47.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T17:16:47.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\Controllers\\ProductsController.cs",
@@ -181,12 +196,11 @@
               "RelativeToolTip": "ManagementInvoices.API\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T17:23:11.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T17:23:11.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CreateProductCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
@@ -198,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ManagementInvoices.API",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\ManagementInvoices.API.csproj",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\ManagementInvoices.API.csproj",
@@ -209,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DeleteProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
@@ -221,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DeleteProductCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
@@ -233,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UpdateProductCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
@@ -245,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CreateProductCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
@@ -257,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GetAllProductsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQueryHandler.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQueryHandler.cs",
@@ -269,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CreateProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
@@ -281,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Infrastructure\\ApplicationDbContext.cs",
@@ -293,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "GetProductByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductByIdQueryHandler.cs",
@@ -305,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "DesignTimeDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\DesignTimeDbContextFactory.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Infrastructure\\DesignTimeDbContextFactory.cs",
@@ -317,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ManagementInvoices.Application.csproj",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\ManagementInvoices.Application.csproj",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\ManagementInvoices.Application.csproj",
@@ -329,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "GetAllProductsQuery.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQuery.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQuery.cs",
@@ -341,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "GetProductById.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductById.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductById.cs",
@@ -353,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "20250802170741_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\Migrations\\20250802170741_InitialCreate.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Infrastructure\\Migrations\\20250802170741_InitialCreate.cs",
@@ -365,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -377,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Domain\\Entities\\Product.cs",
@@ -389,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.Application\\Interfaces\\IApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.Application\\Interfaces\\IApplicationDbContext.cs",

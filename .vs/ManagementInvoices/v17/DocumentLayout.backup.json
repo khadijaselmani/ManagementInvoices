@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\ManagementInvoices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\managementinvoices.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\managementinvoices.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{16EFED88-9705-4050-AC49-A02C8CEA735B}|ManagementInvoices.API\\ManagementInvoices.API.csproj|solutionrelative:managementinvoices.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA496156-4B64-447F-9A35-D53FFB190DA8}|ManagementInvoices.Application\\ManagementInvoices.Application.csproj|c:\\users\\dell\\managementinvoices\\managementinvoices.application\\features\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,11 +106,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\Properties\\launchSettings.json",
@@ -118,8 +118,7 @@
               "RelativeToolTip": "ManagementInvoices.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-03T13:47:19.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T13:47:19.273Z"
             },
             {
               "$type": "Document",
@@ -131,51 +130,47 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T12:48:15.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T12:48:15.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\appsettings.json",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\appsettings.json",
               "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\appsettings.json",
               "RelativeToolTip": "ManagementInvoices.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-02T17:47:38.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T17:47:38.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\appsettings.Development.json",
               "RelativeToolTip": "ManagementInvoices.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-02T17:47:07.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T17:47:07.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Program.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\Program.cs",
               "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Program.cs",
               "RelativeToolTip": "ManagementInvoices.API\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAqwDYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T17:16:47.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T17:16:47.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\Controllers\\ProductsController.cs",
@@ -183,8 +178,7 @@
               "RelativeToolTip": "ManagementInvoices.API\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T17:23:11.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T17:23:11.283Z"
             },
             {
               "$type": "Document",
@@ -196,20 +190,18 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T16:22:42.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T16:22:42.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ManagementInvoices.API",
               "DocumentMoniker": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\ManagementInvoices.API.csproj",
               "RelativeDocumentMoniker": "ManagementInvoices.API\\ManagementInvoices.API.csproj",
               "ToolTip": "C:\\Users\\dell\\ManagementInvoices\\ManagementInvoices.API\\ManagementInvoices.API.csproj",
               "RelativeToolTip": "ManagementInvoices.API\\ManagementInvoices.API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-03T13:46:48.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T13:46:48.437Z"
             },
             {
               "$type": "Document",
@@ -221,8 +213,7 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T11:58:40.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T11:58:40.046Z"
             },
             {
               "$type": "Document",
@@ -234,8 +225,7 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T11:59:09.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T11:59:09.492Z"
             },
             {
               "$type": "Document",
@@ -247,8 +237,7 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T12:49:10.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T12:49:10.092Z"
             },
             {
               "$type": "Document",
@@ -260,8 +249,7 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAuwA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T16:22:25.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T16:22:25.907Z"
             },
             {
               "$type": "Document",
@@ -273,8 +261,7 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQueryHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T18:09:04.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T18:09:04.605Z"
             },
             {
               "$type": "Document",
@@ -286,8 +273,7 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T16:21:14.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T16:21:14.08Z"
             },
             {
               "$type": "Document",
@@ -299,8 +285,7 @@
               "RelativeToolTip": "ManagementInvoices.Infrastructure\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T16:33:08.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T16:33:08.029Z"
             },
             {
               "$type": "Document",
@@ -312,8 +297,7 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductByIdQueryHandler.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA1wBcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T17:26:04.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T17:26:04.348Z"
             },
             {
               "$type": "Document",
@@ -325,8 +309,7 @@
               "RelativeToolTip": "ManagementInvoices.Infrastructure\\DesignTimeDbContextFactory.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T16:51:47.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T16:51:47.821Z"
             },
             {
               "$type": "Document",
@@ -338,8 +321,7 @@
               "RelativeToolTip": "ManagementInvoices.Application\\ManagementInvoices.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-02T16:17:15.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T16:17:15.658Z"
             },
             {
               "$type": "Document",
@@ -351,8 +333,7 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetAllProductsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T18:08:39.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T18:08:39.384Z"
             },
             {
               "$type": "Document",
@@ -364,8 +345,7 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Features\\Products\\Queries\\GetProductById.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T17:25:24.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T17:25:24.711Z"
             },
             {
               "$type": "Document",
@@ -377,8 +357,7 @@
               "RelativeToolTip": "ManagementInvoices.Infrastructure\\Migrations\\20250802170741_InitialCreate.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T17:08:50.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T17:08:50.726Z"
             },
             {
               "$type": "Document",
@@ -390,8 +369,7 @@
               "RelativeToolTip": "ManagementInvoices.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T17:08:49.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T17:08:49.539Z"
             },
             {
               "$type": "Document",
@@ -403,8 +381,7 @@
               "RelativeToolTip": "ManagementInvoices.Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T16:17:40.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T16:17:40.858Z"
             },
             {
               "$type": "Document",
@@ -416,8 +393,7 @@
               "RelativeToolTip": "ManagementInvoices.Application\\Interfaces\\IApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T16:28:07.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T16:28:07.292Z"
             }
           ]
         }
